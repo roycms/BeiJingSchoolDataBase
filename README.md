@@ -1,5 +1,5 @@
 # BeiJingSchoolDataBase
-北京学校数据库 北京地区所有的中小学数据库
+> 北京学校数据库  北京地区所有的中小学数据库
 ```json
 {
     "school": [
